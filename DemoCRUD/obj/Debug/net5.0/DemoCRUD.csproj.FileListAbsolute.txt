@@ -1,0 +1,8 @@
+C:\Users\eaxus\OneDrive\Desktop\Visual Studio\DemoCRUD\DemoCRUD\obj\Debug\net5.0\DemoCRUD.csproj.AssemblyReference.cache
+C:\Users\eaxus\OneDrive\Desktop\Visual Studio\DemoCRUD\DemoCRUD\obj\Debug\net5.0\DemoCRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eaxus\OneDrive\Desktop\Visual Studio\DemoCRUD\DemoCRUD\obj\Debug\net5.0\DemoCRUD.AssemblyInfoInputs.cache
+C:\Users\eaxus\OneDrive\Desktop\Visual Studio\DemoCRUD\DemoCRUD\obj\Debug\net5.0\DemoCRUD.AssemblyInfo.cs
+C:\Users\eaxus\OneDrive\Desktop\Visual Studio\DemoCRUD\DemoCRUD\obj\Debug\net5.0\DemoCRUD.csproj.CoreCompileInputs.cache
+C:\Users\eaxus\OneDrive\Desktop\Visual Studio\DemoCRUD\DemoCRUD\obj\Debug\net5.0\DemoCRUD.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\eaxus\OneDrive\Desktop\Visual Studio\DemoCRUD\DemoCRUD\obj\Debug\net5.0\DemoCRUD.RazorAssemblyInfo.cache
+C:\Users\eaxus\OneDrive\Desktop\Visual Studio\DemoCRUD\DemoCRUD\obj\Debug\net5.0\DemoCRUD.RazorAssemblyInfo.cs
